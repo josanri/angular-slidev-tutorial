@@ -11,7 +11,6 @@ drawings:
 transition: slide-left
 mdc: true
 hideInToc: true
-download: true
 ---
 
 # Welcome to Angular Training
