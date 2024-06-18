@@ -31,6 +31,10 @@ src: ./pages/04-BASICS/index.md
 ---
 
 ---
+src: ./pages/04-BASICS/00-MODULES/index.md
+---
+
+---
 src: ./pages/04-BASICS/01-COMPONENTS/index.md
 ---
 

@@ -5,8 +5,8 @@ layoutClass: gap-16
 
 # Main concepts
 
-+ `Components`
 + `Modules`
++ `Components`
 + `Directives`
 + `Guards`
 + `Pipes`
