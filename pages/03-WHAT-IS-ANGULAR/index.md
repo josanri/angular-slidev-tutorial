@@ -10,7 +10,7 @@ Angular is a web framework mantained by Google for SPA (Sigle Page Application).
 You may found similarities with [NestJS](https://nestjs.com/) if you come from a *backend* environment.
 
 <footer class="absolute left-30px bottom-30px">
-  Read more about <a href="https://angular.dev/overview">Angular</a>
+  Examples and documentation at <a href="https://angular.dev/overview">Angular</a>
 </footer>
 
 <style>
