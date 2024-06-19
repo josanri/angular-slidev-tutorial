@@ -1,4 +1,4 @@
-# An introdyction to Angular made with [Slidev](https://github.com/slidevjs/slidev)!
+# An introduction to Angular made with [Slidev](https://github.com/slidevjs/slidev)!
 
 To start the slide show:
 
