@@ -1,3 +1,5 @@
+## Styles
+
 ### ngClass
 Adds the `css` class conditionally:
 ```html

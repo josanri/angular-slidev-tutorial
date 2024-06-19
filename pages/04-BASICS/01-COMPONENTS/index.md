@@ -20,6 +20,5 @@ export class TodoListItem {
 <li v-click="2"> The <code>selector</code> is the name other components will use to create the component, as a XHTML tag.</li> 
 <li v-click="3"> The <code>template URL</code> has the "HTML" for the component. This is not HTML as it can be enriched with Angular sintaxis.</li> 
 <li v-click="4"> The <code>style</code> URL has the <kbd>css</kbd>, <kbd>sass</kbd> or <kbd>scss</kbd> styles for the components. These styles are encapsulated for the component. If you want to  have the global styles, you will have to store them in a <code>global.css</code> file.</li>
-
 </ul>
 

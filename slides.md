@@ -27,10 +27,6 @@ src: ./pages/03-WHAT-IS-ANGULAR/index.md
 ---
 
 ---
-src: ./pages/04-BASICS/index.md
----
-
----
 src: ./pages/04-BASICS/00-MODULES/index.md
 ---
 
@@ -63,7 +59,19 @@ src: ./pages/04-BASICS/07-PIPES/index.md
 ---
 
 ---
-src: ./pages/04-BASICS/08-FORMULARIES/index.md
+src: ./pages/04-BASICS/08-FORMULARIES/00-INTRODUCTION/index.md
+---
+
+---
+src: ./pages/04-BASICS/08-FORMULARIES/01-TEMPLATE-DRIVEN/index.md
+---
+
+---
+src: ./pages/04-BASICS/08-FORMULARIES/02-REACTIVE/index.md
+---
+
+---
+src: ./pages/04-BASICS/08-FORMULARIES/03-PROPERTIES/index.md
 ---
 
 ---
