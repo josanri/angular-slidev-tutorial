@@ -1,7 +1,0 @@
-## Formularies
-
-WIP
-
-### Static
-
-### Reactives
