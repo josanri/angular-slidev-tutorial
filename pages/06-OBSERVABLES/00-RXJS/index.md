@@ -1,3 +1,0 @@
-# RXJS and Observables
-
-WIP

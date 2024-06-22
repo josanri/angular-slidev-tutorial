@@ -1,18 +1,41 @@
 ---
-layout: two-cols
-layoutClass: gap-16
+transition: fade-out
+layout: center
 ---
 
-# Main concepts
+# Angular Basic Level
+The following slides include key concepts to start using Angular. 
 
-+ `Modules`
-+ `Components`
-+ `Directives`
-+ `Guards`
-+ `Pipes`
+<Toc mode="onlyCurrentTree" />
 
+---
+src: ./00-MODULES/index.md
+---
 
-<footer class="absolute left-30px bottom-30px">
-  Examples extracted from <a href="https://angular.dev">Angular Dev</a>.
-</footer>
+---
+src: ./01-COMPONENTS/index.md
+---
 
+---
+src: ./02-SERVICES/index.md
+---
+
+---
+src: ./03-CLI/index.md
+---
+
+---
+src: ./04-PROPERTIES/index.md
+---
+
+---
+src: ./05-BINDING/index.md
+---
+
+---
+src: ./06-DIRECTIVES/index.md
+---
+
+---
+src: ./07-CLASS-AND-STYLE/index.md
+---

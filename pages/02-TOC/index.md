@@ -5,4 +5,4 @@ hideInToc: true
 
 # Table of contents
 
-<Toc minDepth="1" maxDepth="3" columns="2"></Toc>
+<Toc minDepth="1" maxDepth="2" columns="2"></Toc>

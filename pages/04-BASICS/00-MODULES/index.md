@@ -1,19 +1,22 @@
 ## Modules
 
-```ts {4,16|5|8|12|15} 
+Sets the injector and compiler by identifying components, services and dependencies.
+
+```ts {*|4,16|6|9|13|16} 
 import { NgModule } from "@angular/core";
 
 // app.module.ts
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    // Components
   ],
   imports: [
     FormsModule,
-    // . . .
+    // Modules
   ],
   providers: [
-    // . . .
+    // Services
   ],
   bootstrap: [AppComponent]
 })

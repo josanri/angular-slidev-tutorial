@@ -1,4 +1,4 @@
-### Life Cycle
+## Life Cycle
 
 A component has several methods to control their main states, there are many, but the ones you may use the most are:
 <div class="flex justify-center">
@@ -19,7 +19,9 @@ ngOnInit(){
   // Initialize your component
 }
 ```
+
 #### `ngOnDestroy`, interface `OnDestroy`
+
 ```ts
 ngOnDestroy(){
   // Destroy your component

@@ -27,73 +27,21 @@ src: ./pages/03-WHAT-IS-ANGULAR/index.md
 ---
 
 ---
-src: ./pages/04-BASICS/00-MODULES/index.md
+src: ./pages/04-BASICS/index.md
 ---
 
 ---
-src: ./pages/04-BASICS/01-COMPONENTS/index.md
+src: ./pages/05-MID/index.md
 ---
 
 ---
-src: ./pages/04-BASICS/02-PROPERTIES/index.md
+src: ./pages/06-REACTIVE-PROGRAMMING/index.md
 ---
 
 ---
-src: ./pages/04-BASICS/03-LIFE-CYCLE/index.md
----
+src: ./pages/07-ADVANCED/index.md
+--- 
 
 ---
-src: ./pages/04-BASICS/04-COMPONENT-CHANGES/index.md
----
-
----
-src: ./pages/04-BASICS/05-DIRECTIVES/index.md
----
-
----
-src: ./pages/04-BASICS/06-CLASS-AND-STYLE/index.md
----
-
----
-src: ./pages/04-BASICS/07-PIPES/index.md
----
-
----
-src: ./pages/04-BASICS/08-FORMULARIES/00-INTRODUCTION/index.md
----
-
----
-src: ./pages/04-BASICS/08-FORMULARIES/01-TEMPLATE-DRIVEN/index.md
----
-
----
-src: ./pages/04-BASICS/08-FORMULARIES/02-REACTIVE/index.md
----
-
----
-src: ./pages/04-BASICS/08-FORMULARIES/03-PROPERTIES/index.md
----
-
----
-src: ./pages/04-BASICS/09-GUARDS/index.md
----
-
----
-src: ./pages/04-BASICS/10-TEMPLATES/index.md
----
-
----
-src: ./pages/06-OBSERVABLES/00-RXJS/index.md
----
-
----
-src: ./pages/06-OBSERVABLES/01-HTTP-REQUEST/00-CONSTRUCTOR/index.md
----
-
----
-src: ./pages/06-OBSERVABLES/01-HTTP-REQUEST/01-USAGE/index.md
----
-
----
-src: ./pages/07-END/index.md
----
+src: ./pages/08-END/index.md
+--- 
