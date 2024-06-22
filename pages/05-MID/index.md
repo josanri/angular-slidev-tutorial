@@ -13,7 +13,7 @@ src: ./00-LIFE-CYCLE/index.md
 ---
 
 ---
-src: ./01-COMPONENT-CHANGES/index.md
+src: ./01-FORMULARIES/index.md
 ---
 
 ---
@@ -26,9 +26,5 @@ src: ./03-PIPES/index.md
 
 ---
 src: ./04-TEMPLATES/index.md
----
-
----
-src: ./05-FORMULARIES/index.md
 ---
 

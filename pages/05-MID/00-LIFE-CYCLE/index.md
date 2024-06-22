@@ -29,3 +29,10 @@ ngOnDestroy(){
 }
 ```
 
+---
+src: ./00-COMPONENT-CHANGES/index.md
+---
+
+---
+src: './01-EXAMPLE/index.md'
+---
