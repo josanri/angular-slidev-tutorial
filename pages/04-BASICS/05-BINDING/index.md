@@ -1,7 +1,7 @@
 ## Data binding
 Angular data binding con go on input, output or both:
 
-### Input [📥]
+### Input \[📥\]
 
 From parent to child component:
 
@@ -21,7 +21,7 @@ From child to parent component:
 
 <hr>
 
-### Two-Way data binding [(🍌)]
+### Two-Way data binding \[(🍌)\]
 Also called banana in a box due to its shape, it goes from parent to child and child to parent component:
 
 ```html
