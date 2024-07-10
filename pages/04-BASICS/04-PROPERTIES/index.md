@@ -1,6 +1,6 @@
 # Properties
 
-To share data between between components parent and children there are two main properties:
+To share data between parent and children components (data binding) there are two main properties and decorators:
 
 ##### `Input`
 

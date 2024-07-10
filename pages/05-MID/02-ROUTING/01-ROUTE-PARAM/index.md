@@ -41,7 +41,6 @@ export class TodoListItem {
 }
 ```
 
-```
 ```ts
 import { Router, ActivatedRoute, ParamMap } from '@angular/router';
 

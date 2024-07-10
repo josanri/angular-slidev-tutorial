@@ -1,5 +1,5 @@
 ### Reactive formularies
-Everything comes froma n abstract conrtol
+Everything comes from an abstract conrtol
 
 ```ts
 export class MyNameFormControlComponent {

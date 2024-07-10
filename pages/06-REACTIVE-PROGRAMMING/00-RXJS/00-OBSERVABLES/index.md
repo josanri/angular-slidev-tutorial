@@ -2,12 +2,14 @@
 
 Based on the [official RXJS documentation](https://rxjs.dev/guide/observable):
 
-> Observables are lazy Push collections of multiple values. They fill the missing spot in the following table:
+
 
 |       | SINGLE   | MULTIPLE
 |-------|----------|-------
 | Pull	| Function |	Iterator
 | Push	| Promise  |	Observable
+
+> Observables are lazy Push collections of multiple values.
 
 Main concepts here are:
 
