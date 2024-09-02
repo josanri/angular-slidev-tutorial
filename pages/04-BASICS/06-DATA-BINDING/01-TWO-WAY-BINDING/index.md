@@ -5,6 +5,13 @@ Also called banana in a box due to its shape, it goes from parent property to ch
 <my-component [(name)]="name"></my-component>
 ```
 
+You must follow the `inputChange` pattern, where input is the name of the property decorated with input:
+
+```ts
+@Input() name!: string;
+@Output() nameChange = new EventEmitter<string>();
+```
+
 ## Data binding considerations
 
 When using data binding we will be writing ``Typescript`` inside the quotes. There we will have access to properties from the component. If we want to use a constant we will have to write it as on Typescript In other words.
