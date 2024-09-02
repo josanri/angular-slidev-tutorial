@@ -43,5 +43,9 @@ src: ./pages/07-ADVANCED/index.md
 --- 
 
 ---
-src: ./pages/08-END/index.md
+src: ./pages/08-AVOID-DOING/index.md
+---
+
+---
+src: ./pages/09-END/index.md
 --- 
