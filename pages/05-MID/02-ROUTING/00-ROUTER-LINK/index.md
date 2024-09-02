@@ -19,3 +19,4 @@ The `router-outlet` means **where a subcomponent** will be. The rest of the HTML
 </div>
 ```
 
+> Avoid using `router-outlet` or you'll init the component twice (`ngInit` is called twice but is not destroyed).
